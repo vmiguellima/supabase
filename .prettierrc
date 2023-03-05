@@ -4,8 +4,6 @@
   "semi": false,
   "singleQuote": true,
   "printWidth": 100,
-  "svelteSortOrder" : "styles-scripts-markup",
-  "svelteStrictMode": true,
-  "svelteBracketNewLine": true,
-  "svelteAllowShorthand": false
+  "endOfLine": "lf",
+  "sqlKeywordCase": "lower"
 }
